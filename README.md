@@ -37,7 +37,7 @@ It's especially useful for game developers and animators working with engines li
 
 ### 🧩 From GitHub Releases
 
-1. Go to the [Releases page](https://github.com/your-username/fbx-action-exporter/releases).
+1. Go to the [Releases page](releases).
 2. Download the latest `fbx_action_exporter.py` file.
 3. In Blender, open `Edit > Preferences > Add-ons > Install...`.
 4. Select the downloaded `.py` file and install it.
@@ -59,4 +59,4 @@ It's especially useful for game developers and animators working with engines li
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](link_to_license) file for more details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE)) file for more details.
