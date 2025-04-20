@@ -8,6 +8,13 @@ It's especially useful for game developers and animators working with engines li
 
 ---
 
+## 📋 Requirements
+
+- **Blender 4.0 or higher**
+- Uses Blender's built-in FBX exporter
+
+---
+
 ## ✨ Features
 
 - **Batch Export Animations**  
