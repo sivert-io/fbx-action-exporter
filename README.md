@@ -37,7 +37,7 @@ It's especially useful for game developers and animators working with engines li
 
 ### 🧩 From GitHub Releases
 
-1. Go to the [Releases page](releases).
+1. Go to the [Releases page](https://github.com/sivert-io/fbx-action-exporter/releases).
 2. Download the latest `fbx_action_exporter.py` file.
 3. In Blender, open `Edit > Preferences > Add-ons > Install...`.
 4. Select the downloaded `.py` file and install it.
@@ -59,4 +59,24 @@ It's especially useful for game developers and animators working with engines li
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE]([LICENSE)) file for more details.
+MIT License
+
+Copyright (c) 2025 Sivert Gullberg Hansen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
